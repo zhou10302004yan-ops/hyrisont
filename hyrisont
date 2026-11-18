@@ -1,6 +1,3 @@
-git init
-git add .
-git commit -m "Initial Hyrisont website"
+git remote add origin https://github.com/zhou10302004yan-ops/hyrisont.git
 git branch -M main
-git remote add origin 你的GitHub仓库地址
 git push -u origin main
